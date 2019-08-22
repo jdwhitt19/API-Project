@@ -23,6 +23,7 @@ function displayResults (json) {
     while (pokemonResults.firstChild) {
         pokemonResults.removeChild(pokemonResults.firstChild);
     }
+    
     let name = document.createElement('h2'); // name
     let image = document.createElement('img'); // picture
     let weight = document.createElement('h4'); // weight

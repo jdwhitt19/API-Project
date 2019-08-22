@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "goldbadgeproject"
+    "default": "goldbadgeproject",
+    "goldBadgeProject": "goldbadgeproject"
   }
 }
